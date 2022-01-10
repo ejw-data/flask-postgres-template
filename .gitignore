@@ -1,3 +1,13 @@
+# Added files to ignore
+.DS_Store
+desktop.ini 
+.vscode
+config.*
+
+# Added folders to ignore
+python
+planning
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
