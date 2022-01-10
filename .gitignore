@@ -3,10 +3,11 @@
 desktop.ini 
 .vscode
 config.*
+*.code-workspace
 
 # Added folders to ignore
-python
-planning
+python/
+planning/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
